@@ -24,3 +24,12 @@ $ ionic cordova run ios
 
 Substitute ios for android if not on a Mac.
 
+[Important Notes]
+- conditioning sentences
+
+[New Feature]
+
+[Fixed Issues]
+- improved xx
+- fixed xxx
+- updated xxx
